@@ -1,0 +1,894 @@
+{
+    "search_metadata": {
+      "id": "678c5662cb3f1e87c0f1c7a4",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/8f0d1d4e2c9fe1be/678c5662cb3f1e87c0f1c7a4.json",
+      "created_at": "2025-01-19 01:33:22 UTC",
+      "processed_at": "2025-01-19 01:33:22 UTC",
+      "yelp_reviews_url": "https://www.yelp.com/biz/S4DFeNGphgug2E-dLfiLXg?",
+      "raw_html_file": "https://serpapi.com/searches/8f0d1d4e2c9fe1be/678c5662cb3f1e87c0f1c7a4.html",
+      "prettify_html_file": "https://serpapi.com/searches/8f0d1d4e2c9fe1be/678c5662cb3f1e87c0f1c7a4.prettify",
+      "total_time_taken": 1.79
+    },
+    "search_parameters": {
+      "engine": "yelp_reviews",
+      "start": 0,
+      "num": "49",
+      "place_id": "S4DFeNGphgug2E-dLfiLXg"
+    },
+    "search_information": {
+      "total_results": 32,
+      "business": "Kokomo"
+    },
+    "review_languages": [
+      {
+        "hl": "en",
+        "count": 32
+      }
+    ],
+    "reviews": [
+      {
+        "user": {
+          "name": "Dana S.",
+          "user_id": "v-y1_mldv4BphJP3OerdAg",
+          "link": "https://www.yelp.com/user_details?userid=v-y1_mldv4BphJP3OerdAg",
+          "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/7b9AD9zIMpHnytO77XSOnQ/180s.jpg",
+          "address": "Vancouver, Canada",
+          "friends": 40,
+          "photos": 1870,
+          "reviews": 874,
+          "elite_year": 25
+        },
+        "comment": {
+          "text": "Love the food and vibe here. My usual location is the one in East Van but I stopped here a few times recently and the food delivered the same big flavour and the staff was also very welcoming. I love how their food combines the flavours of comfort food with healthy wholesome ingredients. They carry baked goods from TurF, many of which also offer a slightly healthier take on traditional baked goods without comprising flavour. And everything is vegan!\nPretty small inside, but I really like the vibe. Somehow it kind of reminds me of a camper, maybe it's the shape... If that's not your thing there's a patio area outside with picnic tables which is also great for soaking in good weather when it's nice out.",
+          "language": "en"
+        },
+        "date": "2024-10-30T04:46:57Z",
+        "rating": 5,
+        "tags": [
+          "1 photo"
+        ],
+        "photos": [
+          {
+            "link": "https://s3-media0.fl.yelpcdn.com/bphoto/yzuoTJpq2lQKGyjy9IfSiw/o.jpg",
+            "caption": "Shawarma Wrap, Walnut Brownie"
+          }
+        ],
+        "feedback": {
+          "useful": 0,
+          "funny": 0,
+          "cool": 0
+        }
+      },
+      {
+        "user": {
+          "name": "Liz O.",
+          "user_id": "fiRqLObSCFyCaTY-W-emJg",
+          "link": "https://www.yelp.com/user_details?userid=fiRqLObSCFyCaTY-W-emJg",
+          "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/NZNMtZQU5I85d7GOH3LKoQ/180s.jpg",
+          "address": "New Westminster, Canada",
+          "friends": 72,
+          "photos": 1361,
+          "reviews": 555,
+          "elite_year": 25
+        },
+        "comment": {
+          "text": "Absolutely lovely vegan bowls here. Service was great and god vibe for such a small restaurant. The patio tables and umbrellas were nice for the sunny day.",
+          "language": "en"
+        },
+        "date": "2024-11-03T06:54:11Z",
+        "rating": 5,
+        "tags": [
+          "1 photo"
+        ],
+        "photos": [
+          {
+            "link": "https://s3-media0.fl.yelpcdn.com/bphoto/YGgcmrMinJMlERcvYEq6GA/o.jpg"
+          }
+        ],
+        "feedback": {
+          "useful": 0,
+          "funny": 0,
+          "cool": 0
+        }
+      },
+      {
+        "user": {
+          "name": "Lindsey D.",
+          "user_id": "rp8BECKOXsyWrwDvkso44g",
+          "link": "https://www.yelp.com/user_details?userid=rp8BECKOXsyWrwDvkso44g",
+          "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/KCASl8hloe2EUs-a0jkiew/180s.jpg",
+          "address": "Vancouver, Canada",
+          "friends": 145,
+          "photos": 2900,
+          "reviews": 543,
+          "elite_year": 25
+        },
+        "comment": {
+          "text": "First time at Kokomo Kits. \nTBH, I prefer the east van location considering I've had the same bowl numerous times.\nThe Enchilada bowl was just so scant in pretty much everything but the dressing. My bowl was very fluffed up with sauce looking at the picture.\nI remember all the times my bowls in the commercial drive location, I had something more substantial to stab my fork at. Leaf to toppings ratio is very off.",
+          "language": "en"
+        },
+        "date": "2024-05-07T07:35:02Z",
+        "rating": 2,
+        "tags": [
+          "1 photo"
+        ],
+        "photos": [
+          {
+            "link": "https://s3-media0.fl.yelpcdn.com/bphoto/a_kx-0PlQgCr-q75a5FH8A/o.jpg",
+            "caption": "Enchilda bowl"
+          }
+        ],
+        "feedback": {
+          "useful": 1,
+          "funny": 0,
+          "cool": 0
+        }
+      },
+      {
+        "user": {
+          "name": "Jenna S.",
+          "user_id": "bSKA1bptZV1uczrUMOiP3g",
+          "link": "https://www.yelp.com/user_details?userid=bSKA1bptZV1uczrUMOiP3g",
+          "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/1REI_5AAhe9jnV0CQyu97g/180s.jpg",
+          "address": "San Francisco, CA",
+          "friends": 34,
+          "photos": 135,
+          "reviews": 118,
+          "elite_year": 25
+        },
+        "comment": {
+          "text": "I loved Kokomo for a healthy treat. My friend and I shared a bowl and each got smoothies, and it was the perfect amount of food. Can tell the ingredients they use are super fresh!",
+          "language": "en"
+        },
+        "date": "2024-09-21T16:35:59Z",
+        "rating": 4,
+        "feedback": {
+          "useful": 0,
+          "funny": 0,
+          "cool": 0
+        }
+      },
+      {
+        "user": {
+          "name": "Poonam S.",
+          "user_id": "GXBdA_Sfs_NvF8cZn6ee6A",
+          "link": "https://www.yelp.com/user_details?userid=GXBdA_Sfs_NvF8cZn6ee6A",
+          "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/oX8B0OZeyWVqI6wdIccS-g/180s.jpg",
+          "address": "Vancouver, Canada",
+          "friends": 30,
+          "photos": 719,
+          "reviews": 204,
+          "elite_year": 25
+        },
+        "comment": {
+          "text": "I went to their location on Commerical. \n\nIt was early morning after Acupuncture and I had some time before my Doctors appointment at 10:30am, so needed a good breakfast. \n\nI wanted something gluten and dairy free. Walked in and out of a few cafes trying to find something I could eat when I stumbled upon Kokomo. \n\nTheir Açai bowl was incredible - a açai berry base with lots of healthy toppings like a GF granola, fruits, seeds and almond butter. Loved it!\n\nAlso ordered a lush green smoothie that was packed with so much goodness. Unfortunately, I couldn't bare the taste of raw concentrated turmeric so I barely drank it. For those who can tolerate strong turmeric, this is probably the drink for you. Although I personally didn't like it, I know this drink is packed with anti inflammatory properties. \n\nLoved the staff. New staff in training and she was wonderful, along with the one who was training her.\n\nCute little place on Commercial. Gotta try their other locations.",
+          "language": "en"
+        },
+        "date": "2023-08-30T17:11:18Z",
+        "rating": 4,
+        "tags": [
+          "3 photos"
+        ],
+        "photos": [
+          {
+            "link": "https://s3-media0.fl.yelpcdn.com/bphoto/PpJws_Wiw45ki2Q9TSNvsQ/o.jpg"
+          },
+          {
+            "link": "https://s3-media0.fl.yelpcdn.com/bphoto/TIHXnLtE9BaM7eoszDPfsA/o.jpg"
+          },
+          {
+            "link": "https://s3-media0.fl.yelpcdn.com/bphoto/pY3obmep-EYwgri4AfCc_A/o.jpg"
+          }
+        ],
+        "feedback": {
+          "useful": 0,
+          "funny": 0,
+          "cool": 0
+        }
+      },
+      {
+        "user": {
+          "name": "Rae K.",
+          "user_id": "wv-GW51qdyceGyhQ2Ez0nw",
+          "link": "https://www.yelp.com/user_details?userid=wv-GW51qdyceGyhQ2Ez0nw",
+          "address": "Kitsilano, Vancouver, Canada",
+          "friends": 0,
+          "photos": 0,
+          "reviews": 5
+        },
+        "comment": {
+          "text": "I loved my trip to Kokomo. I mentioned to the server Kate that my throat was sore, and she recommended the daily tonic! It was delicious and helped me feel better. Big thank you to Kate for the personalized and informed service!",
+          "language": "en"
+        },
+        "date": "2024-08-28T01:43:51Z",
+        "rating": 5,
+        "feedback": {
+          "useful": 0,
+          "funny": 0,
+          "cool": 0
+        }
+      },
+      {
+        "user": {
+          "name": "Lara J.",
+          "user_id": "91w6d7y9-fKZS076nt1h2A",
+          "link": "https://www.yelp.com/user_details?userid=91w6d7y9-fKZS076nt1h2A",
+          "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/m069GhwwP-ioNg_aMEaAGg/180s.jpg",
+          "address": "Vancouver, Canada",
+          "friends": 14,
+          "photos": 19,
+          "reviews": 59
+        },
+        "comment": {
+          "text": "Giving 1 star only to the Almond Noodle Salad. \nI didn't want to write this but it was so disappointing for a salad and a $16 before tax and tip, I expected a decent salad. Unfortunately, it tasted like watered-down almond butter with some garlic, soy sauce, sesame oil, and chili oil tossed over rice noodles with the tiniest bit of broccoli, and smoked tofu. I've had some great meals at Kokomo before so this is not a review of the whole place but just this dish.",
+          "language": "en"
+        },
+        "date": "2023-05-31T05:42:40Z",
+        "rating": 1,
+        "feedback": {
+          "useful": 0,
+          "funny": 0,
+          "cool": 0
+        }
+      },
+      {
+        "user": {
+          "name": "Tiffany C.",
+          "user_id": "MZguIyuwJTewChMvFqN4FA",
+          "link": "https://www.yelp.com/user_details?userid=MZguIyuwJTewChMvFqN4FA",
+          "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/JjO-7F94jbFqCe3E3ZiYQg/180s.jpg",
+          "address": "Kitsilano, Vancouver, Canada",
+          "friends": 1,
+          "photos": 16,
+          "reviews": 56
+        },
+        "comment": {
+          "text": "This place tastes like veggie summer. They bowls that are great! I've never been inside their restaurant but food is good delivery, if you need a healthy lunch. I have walked by a few times and it looks like a cosy, beachy place.",
+          "language": "en"
+        },
+        "date": "2023-12-13T15:08:33Z",
+        "rating": 5,
+        "feedback": {
+          "useful": 0,
+          "funny": 0,
+          "cool": 0
+        }
+      },
+      {
+        "user": {
+          "name": "Aviva W.",
+          "user_id": "hWNUZ2nGEAITiGRPXW30Mg",
+          "link": "https://www.yelp.com/user_details?userid=hWNUZ2nGEAITiGRPXW30Mg",
+          "address": "Vancouver, Canada",
+          "friends": 1,
+          "photos": 2,
+          "reviews": 12
+        },
+        "comment": {
+          "text": "I stumbled upon this restaurant/cafe while I was strolling down 4th with a friend. We saw their very appealing look on the outside and had to check it out. I ordered their açai bowl and my friend got the coffee crisp smoothie and WOW. They were both delicious. The açai bowl was flavourful, the granola was homemade and the fruit was fresh and sweet. The smoothie had just the right amount of coffee in it without it being overpowering while still being able to taste the other flavours. We were one of the only customers in the store at the time so our food was made fast and efficiently. The person working behind the counter was knowledgable and could recommend very good items on the menu. Would definitely return!",
+          "language": "en"
+        },
+        "date": "2024-01-05T03:06:49Z",
+        "rating": 5,
+        "tags": [
+          "1 photo"
+        ],
+        "photos": [
+          {
+            "link": "https://s3-media0.fl.yelpcdn.com/bphoto/lcdXcgkUgfHlQFgUaNSyaw/o.jpg",
+            "caption": "Açai bowl"
+          }
+        ],
+        "feedback": {
+          "useful": 0,
+          "funny": 0,
+          "cool": 0
+        }
+      },
+      {
+        "user": {
+          "name": "Rhianon P.",
+          "user_id": "k4QIdBvasDgXFqRHFO_YPw",
+          "link": "https://www.yelp.com/user_details?userid=k4QIdBvasDgXFqRHFO_YPw",
+          "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/xX5qQoHb-fpUKcYoP7_W6g/180s.jpg",
+          "address": "Vancouver, Canada",
+          "friends": 2,
+          "photos": 4,
+          "reviews": 24
+        },
+        "comment": {
+          "text": "Walking toward a previously enjoyed French joint on 4th Avenue, my eye was caught by a small sidewalk easel sign, beckoning me with bill Marinated beetroot, edamame hummus, cucumber, ginger pickled carrot, brown rice, greens, furikake, wasabi peas, pickled ginger, spicy mayo, ginger miso sauce",
+          "language": "en"
+        },
+        "date": "2023-07-09T22:07:09Z",
+        "rating": 5,
+        "feedback": {
+          "useful": 0,
+          "funny": 0,
+          "cool": 0
+        }
+      },
+      {
+        "user": {
+          "name": "Amanda X.",
+          "user_id": "vD_qQVxIAj1zaoIfocsHrg",
+          "link": "https://www.yelp.com/user_details?userid=vD_qQVxIAj1zaoIfocsHrg",
+          "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/oUIaJGV_1RcowTq0lg_sCA/180s.jpg",
+          "address": "Vancouver, Canada",
+          "friends": 1,
+          "photos": 33,
+          "reviews": 25
+        },
+        "comment": {
+          "text": "Kokomo's açai bowls are delicious, never seemed to have an issue until recently.\n\nI found not one, not two, but several pieces of inedible plastic shards that could be mistaken as coconut shards. Nice. DEFINITELY NOT COCONUT SHARDS.\n\nHow the hell did those get in my açai bowl? I could've had a life and death choking experience!\nIrresponsible.",
+          "language": "en"
+        },
+        "date": "2021-01-02T06:50:38Z",
+        "rating": 2,
+        "tags": [
+          "5 photos"
+        ],
+        "photos": [
+          {
+            "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Q6Wj4voUOtAtSbJs_v_EPQ/o.jpg",
+            "caption": "Inedible plastic shard found in my bowl"
+          },
+          {
+            "link": "https://s3-media0.fl.yelpcdn.com/bphoto/1KtSuGCnW04-uz2brXEMvg/o.jpg",
+            "caption": "Inedible plastic shard found in my bowl"
+          },
+          {
+            "link": "https://s3-media0.fl.yelpcdn.com/bphoto/esJFGeayhYjsrlmdeopxdA/o.jpg",
+            "caption": "Inedible plastic shard found in my bowl"
+          },
+          {
+            "link": "https://s3-media0.fl.yelpcdn.com/bphoto/tZIOroSsDIwaR1IZGiAGoA/o.jpg",
+            "caption": "Almond Famous"
+          },
+          {
+            "link": "https://s3-media0.fl.yelpcdn.com/bphoto/j_k-WVeD9B7EE2yf9lzeyQ/o.jpg",
+            "caption": "Inedible plastic shard found in my bowl"
+          }
+        ],
+        "feedback": {
+          "useful": 4,
+          "funny": 1,
+          "cool": 2
+        }
+      },
+      {
+        "user": {
+          "name": "Lisa W.",
+          "user_id": "JkTjTqvw5JcZT-Wu7FA-Dg",
+          "link": "https://www.yelp.com/user_details?userid=JkTjTqvw5JcZT-Wu7FA-Dg",
+          "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/no3aAImDs15OPeRph7ye8A/180s.jpg",
+          "address": "Central Vancouver, Vancouver, Canada",
+          "friends": 0,
+          "photos": 2,
+          "reviews": 6
+        },
+        "comment": {
+          "text": "I'm late to trying this place and I rarely eat out, but now treat myself to one of their bowls every week. \n\nI've tried both the Coastal Macro Bowl and the Beet Poke Macro Bowl and I can't tell you which is better. They are both INCREDIBLE. I saw a review saying the coastal macro bowl was out of this world... yep, yep, yep - both bowls are in my opinion, out of this world good. The flavours of each are amazing and the ingredients have always tasted fresh. Neither comes with soy curls so I opt to add those as they are sooooo delicious here. The amount of ingredients is good for the price and there is a lot of different elements to each bowl. I consider it filling for the price and I have a big appetite. I'm not typically a smoothie fan, but I tried the Coffee Crisp smoothie a couple times and it was really good \n\nI highly recommend this place and seriously look forward to my meal here every week... I would honestly eat it every day if I could! You need to try this place and you must try the coast macro or the beet poke bowl with added soy curls!!",
+          "language": "en"
+        },
+        "date": "2022-10-14T23:36:58Z",
+        "rating": 5,
+        "feedback": {
+          "useful": 0,
+          "funny": 0,
+          "cool": 0
+        }
+      },
+      {
+        "user": {
+          "name": "Sharona G.",
+          "user_id": "Pv7ME9mnW2Lpg_rKijRlLg",
+          "link": "https://www.yelp.com/user_details?userid=Pv7ME9mnW2Lpg_rKijRlLg",
+          "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/LaArIRt8Sfp51aOHCdAPlA/180s.jpg",
+          "address": "San Francisco, CA",
+          "friends": 43,
+          "photos": 5,
+          "reviews": 23
+        },
+        "comment": {
+          "text": "Delicious vegan food!  The laksa noodles were so good I went back the next day for some more.",
+          "language": "en"
+        },
+        "date": "2022-07-13T18:16:19Z",
+        "rating": 5,
+        "feedback": {
+          "useful": 0,
+          "funny": 0,
+          "cool": 0
+        }
+      },
+      {
+        "user": {
+          "name": "Chloe C.",
+          "user_id": "Fqd_7pQ2G2w7cD0Y3Dtbsw",
+          "link": "https://www.yelp.com/user_details?userid=Fqd_7pQ2G2w7cD0Y3Dtbsw",
+          "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ITlB5QoWO52_cRmQMAYYug/180s.jpg",
+          "address": "Kerrisdale, Vancouver, Canada",
+          "friends": 63,
+          "photos": 452,
+          "reviews": 426
+        },
+        "comment": {
+          "text": "This place is great if you're in a rush and are looking for something healthy. I had their beet macro before which was really good, and the two new items I tried this time around were really good as well.\n\nHemp Caesar Salad (5/5)\nThis joins Beetbox and Heirloom as my favourite caesar salads of all time. The dressing is super tasty and the nooch adds a nice umami to it. The greens are fresh and the marinated chickpeas are flavourful. The sunflower crackers are good as well, but not crunchy. I added soy curls to the salad and they were really delicious as well.\n\nCoastal Macro Bowl (4/5)\nThis was pretty good. The dressing was flavourful but I found it a little too salty and there was too little of it. The tempeh was tasty, and the edamame hummus refreshing. The greens were fresh and the squash  soft and sweet. This also came with cucumbers and pickled cabbage.\n\nMac and Cheese (3/5)\nThis was just okay. It was a little boring and bland in terms of flavour, though the sunflower cracker bits on top saved it a little. There was only two tiny piece of broccoli in there and overall I wasn't that impressed with this feature. \n\nIt is a little on the pricey side considering the portions you get, but I'd say it's worth it since the bowls are really colourful and nice to look at, and you feel good after eating them.",
+          "language": "en"
+        },
+        "date": "2020-09-30T20:40:19Z",
+        "rating": 5,
+        "feedback": {
+          "useful": 1,
+          "funny": 0,
+          "cool": 0
+        }
+      },
+      {
+        "user": {
+          "name": "Joy K.",
+          "user_id": "Wt5XQn3IneOhTiuf8vXpyg",
+          "link": "https://www.yelp.com/user_details?userid=Wt5XQn3IneOhTiuf8vXpyg",
+          "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/DPMP2Ptlu-IgfAsyGEpYcQ/180s.jpg",
+          "address": "Waterford, Republic of Ireland",
+          "friends": 104,
+          "photos": 1,
+          "reviews": 9
+        },
+        "comment": {
+          "text": "I love Kokomo's bowls and get them often. But today I tried a smoothie of theirs and was very disappointed. The smoothie came in a tiny cup compared all the competitors on west 4th, which are 50% bigger then this and the roughly the same price. It was more a juice then smoothie and very watery. It was also served to me missing about an inch of smoothie from the top of the cup. It was bad value for money. Although the juice/smoothie was tasty itself, I will just stick to the bowls from now on.",
+          "language": "en"
+        },
+        "date": "2020-08-20T21:06:07Z",
+        "rating": 3,
+        "tags": [
+          "1 photo"
+        ],
+        "photos": [
+          {
+            "link": "https://s3-media0.fl.yelpcdn.com/bphoto/NA-uKAAUS49WmQG5u7OQpg/o.jpg",
+            "caption": "Green body smoothie"
+          }
+        ],
+        "feedback": {
+          "useful": 1,
+          "funny": 0,
+          "cool": 0
+        }
+      },
+      {
+        "user": {
+          "name": "Fi Y.",
+          "user_id": "Lxx6UYMjD6sjOhEAi3S0zA",
+          "link": "https://www.yelp.com/user_details?userid=Lxx6UYMjD6sjOhEAi3S0zA",
+          "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/xVJ0kYj87fzobsSL2vNXtg/180s.jpg",
+          "address": "Vancouver, Canada",
+          "friends": 13,
+          "photos": 153,
+          "reviews": 39
+        },
+        "comment": {
+          "text": "I have been  to Kokomo at kits for many occasions now, and I love it every time. From the cute decor, to the staff and of course, the food - everything is just superb! Yes, it is a little on the pricey side, but I believe it's totally worth it. I don't mind spending my money on 100% wholesome goodness. \nP.s. Huge thanks to the staff ... my klutzy hubby dropped his drink on our way back to the car. He went back to re-order, but the staff was kind enough to offer him a replacement for FREE! (: \nI will be soon, Kokomo!",
+          "language": "en"
+        },
+        "date": "2019-03-03T00:37:55Z",
+        "rating": 5,
+        "tags": [
+          "5 photos"
+        ],
+        "photos": [
+          {
+            "link": "https://s3-media0.fl.yelpcdn.com/bphoto/x9LCXqnVMuui_TsugWeIKw/o.jpg",
+            "caption": "Current menu"
+          },
+          {
+            "link": "https://s3-media0.fl.yelpcdn.com/bphoto/cNvWJwBVQpJIMwnsLhP7Qw/o.jpg",
+            "caption": "Current menu"
+          },
+          {
+            "link": "https://s3-media0.fl.yelpcdn.com/bphoto/EQPXxNWE_UNgj5MfRKsqzA/o.jpg"
+          },
+          {
+            "link": "https://s3-media0.fl.yelpcdn.com/bphoto/w5GI9GkRdJedZwmjHUteCA/o.jpg"
+          },
+          {
+            "link": "https://s3-media0.fl.yelpcdn.com/bphoto/tbLM2UAzBT6FpKAZS3Dpqw/o.jpg"
+          }
+        ],
+        "feedback": {
+          "useful": 0,
+          "funny": 0,
+          "cool": 0
+        }
+      },
+      {
+        "user": {
+          "name": "Ruth H.",
+          "user_id": "vdKpI0zdqWvTmhsxWBhqKg",
+          "link": "https://www.yelp.com/user_details?userid=vdKpI0zdqWvTmhsxWBhqKg",
+          "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/EYLGn-F06UlWBsofe0g56A/180s.jpg",
+          "address": "New York, NY",
+          "friends": 6,
+          "photos": 92,
+          "reviews": 151
+        },
+        "comment": {
+          "text": "We love Kokomo. They have the best GF vegan food in Vancouver. They are some friendly. Just why aren't they opened before 11?",
+          "language": "en"
+        },
+        "date": "2021-11-18T03:17:34Z",
+        "rating": 5,
+        "feedback": {
+          "useful": 0,
+          "funny": 0,
+          "cool": 1
+        }
+      },
+      {
+        "user": {
+          "name": "Annie C.",
+          "user_id": "byX6qmFT7Uoqaoc3H3tVJg",
+          "link": "https://www.yelp.com/user_details?userid=byX6qmFT7Uoqaoc3H3tVJg",
+          "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/gUJ9VricBQxtQ_N4unBbIA/180s.jpg",
+          "address": "Calgary, Canada",
+          "friends": 166,
+          "photos": 327,
+          "reviews": 243
+        },
+        "comment": {
+          "text": "I was in the Kits neighbourhood grabbing a coffee with a friend at Their There Cafe and she recommended this place for lunch. I'm not on a vegan diet or anything like that, but am always intrigued by new spots. Both the interior and exterior are super cute and aesthetically pleasing. \n\nI tried the vegan laksa ($11) as per my friend's recommendation. In my opinion, vegan/superfoods have the reputation for being expensive, but I found the price to be very reasonable considering the location and the portion. I quite enjoyed my laksa, the coconut flavour was prominent and the pickled carrots added a nice contrast. I have not had many vegan food experiences, but this was definitely a positive one!",
+          "language": "en"
+        },
+        "date": "2018-09-14T21:59:58Z",
+        "rating": 4,
+        "feedback": {
+          "useful": 0,
+          "funny": 0,
+          "cool": 0
+        }
+      },
+      {
+        "user": {
+          "name": "Miriam T.",
+          "user_id": "yzgQ-geLttdiZ5E2Cgt5Aw",
+          "link": "https://www.yelp.com/user_details?userid=yzgQ-geLttdiZ5E2Cgt5Aw",
+          "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/a9-f5WLq4BafNx-Nw6II8Q/180s.jpg",
+          "address": "Toronto, Canada",
+          "friends": 0,
+          "photos": 5,
+          "reviews": 14
+        },
+        "comment": {
+          "text": "Unbelievably good, healthy and quick vegan food! Have not tried one thing from Kokomo I've disliked - they have a serious knack for flavour. I also love that they're on Doordash (their partnership extends delivery all the way to North Van, BTW) and that they have a fun rotating menu! Was sad to see my favourite summer salad rolled out and replaced by a quinoa one for the colder months, but hey, life is full of disappointments. I take comfort in the fact that their magical Hemp Caesar seems like a fixed item.\n\nAnother note of support: their lovely staff who have given me everything from tea advice for constipation to free candy on Halloween. Good vibes! Kokomo remains a staple in my week-to-week diet.",
+          "language": "en"
+        },
+        "date": "2020-02-23T02:35:26Z",
+        "rating": 5,
+        "feedback": {
+          "useful": 0,
+          "funny": 0,
+          "cool": 0
+        }
+      },
+      {
+        "user": {
+          "name": "Shila B.",
+          "user_id": "RtGqdDBvvBCjcu5dUqwfzA",
+          "link": "https://www.yelp.com/user_details?userid=RtGqdDBvvBCjcu5dUqwfzA",
+          "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/2bM5l0j6I5kyg4VS8Mzwmg/180s.jpg",
+          "address": "Vancouver, Canada",
+          "friends": 175,
+          "photos": 734,
+          "reviews": 12858
+        },
+        "comment": {
+          "text": "Atmosphere: As you would expect given the concept that this is very clean and inviting. You feel fresh. \n\nPrice: Standard for most concept places and market value. \n\nCustomer service: Very friendly with respectable time frame service. \n\nFood: It's different variations of salads that comply with most dietary needs including a cleanse that I was on for a few days, therefore, came with a friend of mine during our date nights. I had the flower power salad with the dressing on the side.",
+          "language": "en"
+        },
+        "date": "2018-08-31T19:21:01Z",
+        "rating": 5,
+        "feedback": {
+          "useful": 0,
+          "funny": 1,
+          "cool": 0
+        }
+      },
+      {
+        "user": {
+          "name": "Dolan R.",
+          "user_id": "p0pLKtZoLu_yCBOOJq8lsw",
+          "link": "https://www.yelp.com/user_details?userid=p0pLKtZoLu_yCBOOJq8lsw",
+          "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/uI6CyHqeIjJe2yUJ_FSWDQ/180s.jpg",
+          "address": "North Vancouver, Canada",
+          "friends": 1230,
+          "photos": 0,
+          "reviews": 16
+        },
+        "comment": {
+          "text": "The banana bread is promoted as \"to die for - TDF\" and it is actually a joke. Some of the worst banana bread i have ever had. They are trying to rip off the name of an actually amazing banana bread. Their bowls are mediocre as well. If you want underwhelming and meh. This is the place.",
+          "language": "en"
+        },
+        "date": "2020-07-04T21:27:29Z",
+        "rating": 2,
+        "feedback": {
+          "useful": 1,
+          "funny": 0,
+          "cool": 0
+        }
+      },
+      {
+        "user": {
+          "name": "Marie I.",
+          "user_id": "eAozLm6j617N5TWDvkDuiw",
+          "link": "https://www.yelp.com/user_details?userid=eAozLm6j617N5TWDvkDuiw",
+          "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/dHvMEhBLboA8NZLnl1L_LA/180s.jpg",
+          "address": "Vancouver, Canada",
+          "friends": 0,
+          "photos": 0,
+          "reviews": 9
+        },
+        "comment": {
+          "text": "GO! JUST GO THERE AND ENJOY! \nSuch a nice find. All the food is vegan, gluten free, tasty and the ingredients have integrity. The staff is very friendly  and helpful. And the food came up right away. \nI wanted something warm so I had the Golden Lakshmi(?). Absolutely delicious and easy on my stomach. Xoxo",
+          "language": "en"
+        },
+        "date": "2018-06-28T20:26:54Z",
+        "rating": 5,
+        "tags": [
+          "First to Review"
+        ],
+        "feedback": {
+          "useful": 0,
+          "funny": 1,
+          "cool": 0
+        }
+      },
+      {
+        "user": {
+          "name": "Amy T.",
+          "user_id": "E0Fmy_8v6yQAVNlY9HBxiw",
+          "link": "https://www.yelp.com/user_details?userid=E0Fmy_8v6yQAVNlY9HBxiw",
+          "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/_fIAmr78k6yGr4kJPhi1SA/180s.jpg",
+          "address": "Plant City, FL",
+          "friends": 2,
+          "photos": 3,
+          "reviews": 3
+        },
+        "comment": {
+          "text": "I've been wanting to try this place based on their Instagram posts and finally had the opportunity to! It didn't disappoint. It's smaller but more adorable than I expected. I split the Beet Poke and Kokomo açaí. The staff are super sweet and split the meal for us. The tastes are amazing and leave you with zero guilt.",
+          "language": "en"
+        },
+        "date": "2019-05-11T19:05:07Z",
+        "rating": 5,
+        "tags": [
+          "1 photo"
+        ],
+        "photos": [
+          {
+            "link": "https://s3-media0.fl.yelpcdn.com/bphoto/CoS-TsgVv72y7v-wtYRcfw/o.jpg",
+            "caption": "Beet Poke and Kombucha on tap."
+          }
+        ],
+        "feedback": {
+          "useful": 0,
+          "funny": 0,
+          "cool": 0
+        }
+      },
+      {
+        "user": {
+          "name": "Jennifer C.",
+          "user_id": "fshW3sVqeqLkz_TYZ8qaoA",
+          "link": "https://www.yelp.com/user_details?userid=fshW3sVqeqLkz_TYZ8qaoA",
+          "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/NJFLDxvvoEB3T3HJoadaFw/180s.jpg",
+          "address": "Vancouver, Canada",
+          "friends": 3,
+          "photos": 82,
+          "reviews": 49
+        },
+        "comment": {
+          "text": "I've been to both locations and will be back regularly! Still need to try the Coco Whip which is apparently only at the Kits location (as of my visit). Highly recommend the snack plate with hummus (I forget the real name!), Nood Beach and Curry Laksa. We tried the Hemp Kale Caesar as well which was really good flavor-wise, but you must love chickpeas. Or mix in sparingly!",
+          "language": "en"
+        },
+        "date": "2018-08-01T02:33:59Z",
+        "rating": 5,
+        "tags": [
+          "1 photo"
+        ],
+        "photos": [
+          {
+            "link": "https://s3-media0.fl.yelpcdn.com/bphoto/v2eu7aOToAQBdvra8kR1sQ/o.jpg",
+            "caption": "Hemp Kale Caesar, Nood Beach, and hummus snack plate (I forget the real name)"
+          }
+        ],
+        "feedback": {
+          "useful": 0,
+          "funny": 0,
+          "cool": 0
+        }
+      },
+      {
+        "user": {
+          "name": "Philly G.",
+          "user_id": "V8oO4nKePmujHtFeumqPcw",
+          "link": "https://www.yelp.com/user_details?userid=V8oO4nKePmujHtFeumqPcw",
+          "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/dHgXKFcPvlkQOgOnEg4b1w/180s.jpg",
+          "address": "Vancouver, Canada",
+          "friends": 0,
+          "photos": 2,
+          "reviews": 64
+        },
+        "comment": {
+          "text": "So initially I went on the website to check out their menu when a friend mentioned it months ago. As I scrolled down, a woman's butt appeared out of nowhere. Pictures of food, butt, food again. I don't get this. In the era of #MeToo why do advertisers feel that this is necessary to sell  food? Unless it was art? idk...\nSo anyways, jump ahead several months and same friend says we should go here for lunch. I am vegetarian and she always makes an effort to patronize veggie places when we go out to eat. I did not at all link the place with the website I had visited before this. I had one of the Macro bowls. It was amazing. A burst of flavours that medley together in ways I haven't experienced before. They use tempeh and other foods not commonly seen in these parts. I am not really a hummous fan anymore (just from overabusing hummous in my early vegetarian days) but their hummous is the only hummous I will eat these days. Tangy and bsolutely delicious. I have been back 3 times since  that first visit; introducing all my veggie friends to it. I've had both Macro bowls and haven't tried anything else yet but I will make my way through the menu.\nOh and they are also very accommodating. I am doing the low carb thing and they will happily sub out the rice for greens with no extra charges. I very much appreciate this. And they are always friendly.\n Even when I discovered that this is the place with the butt I still go back. Go figure, so much for my principles... But I did leave off 1 star for the butt.",
+          "language": "en"
+        },
+        "date": "2019-01-07T00:43:10Z",
+        "rating": 4,
+        "feedback": {
+          "useful": 0,
+          "funny": 1,
+          "cool": 1
+        }
+      },
+      {
+        "user": {
+          "name": "Lara B.",
+          "user_id": "cTVywI5aLjQXCLx4tClBFQ",
+          "link": "https://www.yelp.com/user_details?userid=cTVywI5aLjQXCLx4tClBFQ",
+          "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/oNtlM843HJVNR6b4RGbd_Q/180s.jpg",
+          "address": "Vancouver, Canada",
+          "friends": 699,
+          "photos": 12,
+          "reviews": 37
+        },
+        "comment": {
+          "text": "From beginning to end this place rocks!! We absolutely LOVED the laksa and yesterday I also had a yummy smoothie!  Katie, the owner is adorable and made us feel right at home...we will be back!!",
+          "language": "en"
+        },
+        "date": "2018-09-14T20:09:29Z",
+        "rating": 5,
+        "feedback": {
+          "useful": 1,
+          "funny": 0,
+          "cool": 1
+        }
+      },
+      {
+        "user": {
+          "name": "Buddy Z.",
+          "user_id": "5AxGmzw0NsIpsC8-_dnE4A",
+          "link": "https://www.yelp.com/user_details?userid=5AxGmzw0NsIpsC8-_dnE4A",
+          "address": "Burnaby, Canada",
+          "friends": 0,
+          "photos": 0,
+          "reviews": 1
+        },
+        "comment": {
+          "text": "Very refreshing and flavourful food! First time here was a pleasant surprise since I don't frequent the area. Had the golden laska noodles and me time tea. Certainly will be thinking of this place again when I'm in the area, thank you Kokomo staff! The ginger pickled carrots where really nice \n\nIt was almost uncomfortably warm inside is my only down point. Hopefully that will be fixed in the future. Weather was a full sunshine day and 5 degrees.",
+          "language": "en"
+        },
+        "date": "2020-02-20T22:28:05Z",
+        "rating": 5,
+        "feedback": {
+          "useful": 0,
+          "funny": 0,
+          "cool": 0
+        }
+      },
+      {
+        "user": {
+          "name": "skylar b.",
+          "user_id": "0Sbe-8UMOvtyasW_UZpP7A",
+          "link": "https://www.yelp.com/user_details?userid=0Sbe-8UMOvtyasW_UZpP7A",
+          "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/s9pJlfhl_9cEN6nIJ_5afA/180s.jpg",
+          "address": "Los Angeles, CA",
+          "friends": 340,
+          "photos": 13,
+          "reviews": 76
+        },
+        "comment": {
+          "text": "Came all the way to try the cocowhip that the other location no longer carried. Got the espresso one and it was BOMB. Only complaint is that for the price it was on the smaller side so was a little bummed it wasn't a bigger portion. Pricy, but worth it. Next time won't share with the boyfriend. Please open location in LA!",
+          "language": "en"
+        },
+        "date": "2018-08-30T22:24:26Z",
+        "rating": 4,
+        "feedback": {
+          "useful": 0,
+          "funny": 1,
+          "cool": 0
+        }
+      },
+      {
+        "user": {
+          "name": "Ozz N.",
+          "user_id": "Jngf2yYuiAgVPxLv3WQZOw",
+          "link": "https://www.yelp.com/user_details?userid=Jngf2yYuiAgVPxLv3WQZOw",
+          "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/e67QCOgGl5cTzOs5FH8Ehw/180s.jpg",
+          "address": "Santa Monica, CA",
+          "friends": 0,
+          "photos": 0,
+          "reviews": 6
+        },
+        "comment": {
+          "text": "Love this place! Recently moved to the neighborhood from Venice beach & this place reminds me of a mini cafe gratitude!  The macro bowls are amazing!",
+          "language": "en"
+        },
+        "date": "2019-05-12T19:45:33Z",
+        "rating": 5,
+        "feedback": {
+          "useful": 0,
+          "funny": 0,
+          "cool": 0
+        }
+      },
+      {
+        "user": {
+          "name": "Niuniu Z.",
+          "user_id": "B9NZoAHly6WMydfOD7tq3w",
+          "link": "https://www.yelp.com/user_details?userid=B9NZoAHly6WMydfOD7tq3w",
+          "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/7AWgRFwOVRz4VR3QzrnEUg/180s.jpg",
+          "address": "West Vancouver, Canada",
+          "friends": 2,
+          "photos": 3,
+          "reviews": 192
+        },
+        "comment": {
+          "text": "Friendly service & fun menu. My laksa bowl was super flavourful and addictive...Quite fresh and light despite the coconut creaminess. A bit too much air conditioning / fanning in this weather though...",
+          "language": "en"
+        },
+        "date": "2018-08-24T19:51:11Z",
+        "rating": 4,
+        "feedback": {
+          "useful": 0,
+          "funny": 0,
+          "cool": 0
+        }
+      },
+      {
+        "user": {
+          "name": "Jennifer B.",
+          "user_id": "LO4nsY1yuLZFDmeyFmZ92w",
+          "link": "https://www.yelp.com/user_details?userid=LO4nsY1yuLZFDmeyFmZ92w",
+          "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/abqQ-DKlbpdvWvzo5Tqxyw/180s.jpg",
+          "address": "Kitsilano, Vancouver, Canada",
+          "friends": 122,
+          "photos": 0,
+          "reviews": 3
+        },
+        "comment": {
+          "text": "Awesome healthy choices. Very friendly and accommodating. I would highly recommend this cafe.",
+          "language": "en"
+        },
+        "date": "2018-10-22T18:51:40Z",
+        "rating": 5,
+        "feedback": {
+          "useful": 0,
+          "funny": 0,
+          "cool": 0
+        }
+      },
+      {
+        "user": {
+          "name": "Kat K.",
+          "user_id": "isrU35ayind26QUvbA9Emw",
+          "link": "https://www.yelp.com/user_details?userid=isrU35ayind26QUvbA9Emw",
+          "address": "Fairview, Vancouver, Canada",
+          "friends": 0,
+          "photos": 12,
+          "reviews": 10
+        },
+        "comment": {
+          "text": "I loved the aesthetic of it and the food was good. The food doesn't stay warm for long or the cold stuff doesn't stay cold for long. The service was decently quick and it had a bathroom",
+          "language": "en"
+        },
+        "date": "2019-07-12T17:27:49Z",
+        "rating": 4,
+        "feedback": {
+          "useful": 0,
+          "funny": 0,
+          "cool": 0
+        }
+      }
+    ]
+  }

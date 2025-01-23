@@ -1,0 +1,802 @@
+{
+   "local_results":[
+      {
+         "address":"Cambie Street &, W 8th Ave, Vancouver, BC, Canada",
+         "data_cid":"14890936024488331033",
+         "data_id":"0x5486739aed162a0f:0xcea73b6b30b1c719",
+         "gps_coordinates":[
+            "Object"
+         ],
+         "order_online":"https://www.google.com/viewer/chooseprovider?mid=/g/11t40k1vpk&g2lbs=AOHF13kyE6YFlmqDl2tVn7yDIguKy3J_bc0xRylVtA0eOrnK6tq4whH6ty-l7p4_qey5R3gMG8w8&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=B7qEZ8_4MdOHptQPz-PwMA&ei=B7qEZ8_4MdOHptQPz-PwMA&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+         "photos_link":"https://serpapi.com/search.json?data_id=0x5486739aed162a0f%3A0xcea73b6b30b1c719&engine=google_maps_photos&hl=en",
+         "place_id":"ChIJDyoW7ZpzhlQRGcexMGs7p84",
+         "place_id_search":"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJDyoW7ZpzhlQRGcexMGs7p84",
+         "position":1,
+         "price":"CA$10–20",
+         "provider_id":"/g/11t40k1vpk",
+         "rating":4.7,
+         "reviews":130,
+         "reviews_link":"https://serpapi.com/search.json?data_id=0x5486739aed162a0f%3A0xcea73b6b30b1c719&engine=google_maps_reviews&hl=en",
+         "service_options":[
+            "Object"
+         ],
+         "thumbnail":"https://lh3.googleusercontent.com/gps-proxy/ALd4DhH-Gy6n7IdbqKtLtF3Bu7cGyCVQc2KSXB7i2nHrf_jtAhaV_lTxP1h-UR-3BPoSjc12TLW068fpqsLv6LTMftsHKuLDHZF4kyskUiveJ5ihDYGLBv3JLQxhEb0sNh5ZOiSi9Kw2PBM4K-Ekv0eHVUyS7SbFNLML3OE-QzYb59hW3weND1dAHnNqHw=w163-h92-k-no",
+         "title":"Planted Love Food Truck",
+         "type":"Middle Eastern restaurant",
+         "type_id":"middle_eastern_restaurant",
+         "type_ids":[
+            "Array"
+         ],
+         "types":[
+            "Array"
+         ],
+         "unclaimed_listing":true,
+         "user_review":"\"I love that the offerings are vegan and kosher.\""
+      },
+      {
+         "address":"2961 W Broadway, Vancouver, BC V6K 2G9, Canada",
+         "data_cid":"6714056157364322153",
+         "data_id":"0x548673217c0c482b:0x5d2d1e80a5b97f69",
+         "gps_coordinates":[
+            "Object"
+         ],
+         "hours":"Open ⋅ Closes 1 AM",
+         "open_state":"Open ⋅ Closes 1 AM",
+         "operating_hours":[
+            "Object"
+         ],
+         "order_online":"https://www.google.com/viewer/chooseprovider?mid=/g/11sghz2y8t&g2lbs=AOHF13nS4X0gmlMR4GOTUtmYbcenxUl-bjZ_xPIkCvpYmfcCCwT7MhYXJ-Q1bjcwFIXhEh4RqMVn&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=B7qEZ8_4MdOHptQPz-PwMA&ei=B7qEZ8_4MdOHptQPz-PwMA&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+         "phone":"+1 604-336-3575",
+         "photos_link":"https://serpapi.com/search.json?data_id=0x548673217c0c482b%3A0x5d2d1e80a5b97f69&engine=google_maps_photos&hl=en",
+         "place_id":"ChIJK0gMfCFzhlQRaX-5pYAeLV0",
+         "place_id_search":"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJK0gMfCFzhlQRaX-5pYAeLV0",
+         "position":2,
+         "price":"CA$10–20",
+         "provider_id":"/g/11sghz2y8t",
+         "rating":4.4,
+         "reviews":34,
+         "reviews_link":"https://serpapi.com/search.json?data_id=0x548673217c0c482b%3A0x5d2d1e80a5b97f69&engine=google_maps_reviews&hl=en",
+         "service_options":[
+            "Object"
+         ],
+         "thumbnail":"https://lh5.googleusercontent.com/p/AF1QipNBE9tOKApxRolfe_j_218805k_mbTXTp8DWoZo=w138-h92-k-no",
+         "title":"Vegan Fried Chickun",
+         "type":"Vegetarian restaurant",
+         "type_id":"vegetarian_restaurant",
+         "type_ids":[
+            "Array"
+         ],
+         "types":[
+            "Array"
+         ],
+         "website":"https://www.veganfriedchickun.com/"
+      },
+      {
+         "address":"2585 W Broadway, Vancouver, BC V6K 2E9, Canada",
+         "data_cid":"10115576981993232361",
+         "data_id":"0x548673e80f836083:0x8c61bfaba5d317e9",
+         "gps_coordinates":[
+            "Object"
+         ],
+         "hours":"Closed ⋅ Opens 5 PM Mon",
+         "open_state":"Closed ⋅ Opens 5 PM Mon",
+         "operating_hours":[
+            "Object"
+         ],
+         "photos_link":"https://serpapi.com/search.json?data_id=0x548673e80f836083%3A0x8c61bfaba5d317e9&engine=google_maps_photos&hl=en",
+         "place_id":"ChIJg2CDD-hzhlQR6RfTpau_YYw",
+         "place_id_search":"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJg2CDD-hzhlQR6RfTpau_YYw",
+         "position":3,
+         "provider_id":"/g/11rv8044nn",
+         "rating":4.8,
+         "reviews":312,
+         "reviews_link":"https://serpapi.com/search.json?data_id=0x548673e80f836083%3A0x8c61bfaba5d317e9&engine=google_maps_reviews&hl=en",
+         "service_options":[
+            "Object"
+         ],
+         "thumbnail":"https://lh5.googleusercontent.com/p/AF1QipN7ckfHHfEcKChzGvzAfjIJvsDwBpvMKkyQ_tZn=w122-h92-k-no",
+         "title":"Folke",
+         "type":"Vegan restaurant",
+         "type_id":"vegan_restaurant",
+         "type_ids":[
+            "Array"
+         ],
+         "types":[
+            "Array"
+         ],
+         "website":"https://www.folkerestaurant.com/"
+      },
+      {
+         "address":"2028 Vine St, Vancouver, BC V6K 3K1, Canada",
+         "data_cid":"14986401410564275789",
+         "data_id":"0x54867312fb02ebf5:0xcffa64ae7a18be4d",
+         "gps_coordinates":[
+            "Object"
+         ],
+         "hours":"Closed ⋅ Opens 10 AM Mon",
+         "open_state":"Closed ⋅ Opens 10 AM Mon",
+         "operating_hours":[
+            "Object"
+         ],
+         "order_online":"https://www.google.com/viewer/chooseprovider?mid=/g/11f61phkyl&g2lbs=AOHF13n8nyBwD6sXl-BbM_cuLrObZyfuXwfaY1u82TyZnSuCxa6QAQGJGPMGcdK-xC1u46OmMOti&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=B7qEZ8_4MdOHptQPz-PwMA&ei=B7qEZ8_4MdOHptQPz-PwMA&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+         "phone":"+1 604-428-5017",
+         "photos_link":"https://serpapi.com/search.json?data_id=0x54867312fb02ebf5%3A0xcffa64ae7a18be4d&engine=google_maps_photos&hl=en",
+         "place_id":"ChIJ9esC-xJzhlQRTb4Yeq5k-s8",
+         "place_id_search":"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ9esC-xJzhlQRTb4Yeq5k-s8",
+         "position":4,
+         "price":"CA$10–20",
+         "provider_id":"/g/11f61phkyl",
+         "rating":4.6,
+         "reviews":238,
+         "reviews_link":"https://serpapi.com/search.json?data_id=0x54867312fb02ebf5%3A0xcffa64ae7a18be4d&engine=google_maps_reviews&hl=en",
+         "service_options":[
+            "Object"
+         ],
+         "thumbnail":"https://lh5.googleusercontent.com/p/AF1QipPbBNVOmnE0-9boO5gpaHvSUwkaZ7x4ScPnWL83=w80-h106-k-no",
+         "title":"Kokomo",
+         "type":"Vegan restaurant",
+         "type_id":"vegan_restaurant",
+         "type_ids":[
+            "Array"
+         ],
+         "types":[
+            "Array"
+         ],
+         "website":"http://heykokomo.ca/"
+      },
+      {
+         "address":"988 Granville St, Vancouver, BC V6Z 1L2, Canada",
+         "data_cid":"4134980556572977021",
+         "data_id":"0x548673d59bc72273:0x396266e87bade77d",
+         "description":"Simple cafe for health-focused burritos. Snug counter-serve with health-conscious burritos & bowls, with organic tofu & brown rice options.",
+         "gps_coordinates":[
+            "Object"
+         ],
+         "hours":"Open ⋅ Closes 1 AM",
+         "open_state":"Open ⋅ Closes 1 AM",
+         "operating_hours":[
+            "Object"
+         ],
+         "order_online":"https://www.google.com/viewer/chooseprovider?mid=/g/11bx89mkph&g2lbs=AOHF13lGnomrpS3RWOHWzVeYq-qh66BBA2566K8FvGGRfvBuGit0-ppqrb16elZy8nF_Us0DDcAF&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=B7qEZ8_4MdOHptQPz-PwMA&ei=B7qEZ8_4MdOHptQPz-PwMA&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+         "phone":"+1 604-559-7000",
+         "photos_link":"https://serpapi.com/search.json?data_id=0x548673d59bc72273%3A0x396266e87bade77d&engine=google_maps_photos&hl=en",
+         "place_id":"ChIJcyLHm9VzhlQRfeete-hmYjk",
+         "place_id_search":"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJcyLHm9VzhlQRfeete-hmYjk",
+         "position":5,
+         "price":"CA$10–20",
+         "provider_id":"/g/11bx89mkph",
+         "rating":4.5,
+         "reviews":957,
+         "reviews_link":"https://serpapi.com/search.json?data_id=0x548673d59bc72273%3A0x396266e87bade77d&engine=google_maps_reviews&hl=en",
+         "service_options":[
+            "Object"
+         ],
+         "thumbnail":"https://lh5.googleusercontent.com/p/AF1QipO05AtO6V2GfHIzGKbN36xYeSTFr-6kCV5b803E=w80-h106-k-no",
+         "title":"Hungry Guys Kitchen & Bar",
+         "type":"Restaurant",
+         "type_id":"restaurant",
+         "type_ids":[
+            "Array"
+         ],
+         "types":[
+            "Array"
+         ],
+         "user_review":"\"I am a vegetarian and this is a perfect place to go to it's very close by\"",
+         "website":"https://www.hungryguyskitchen.com/"
+      },
+      {
+         "address":"1165 Mainland St, Vancouver, BC V6B 5P2, Canada",
+         "data_cid":"2989330849707371761",
+         "data_id":"0x548673d6e564a417:0x297c3c91d4ecacf1",
+         "gps_coordinates":[
+            "Object"
+         ],
+         "hours":"Closed ⋅ Opens 11 AM Mon",
+         "open_state":"Closed ⋅ Opens 11 AM Mon",
+         "operating_hours":[
+            "Object"
+         ],
+         "order_online":"https://www.google.com/viewer/chooseprovider?mid=/g/11gfm3t0tn&g2lbs=AOHF13kWYMIeeLkW5rgKQ0BhLouC_a-TkfpbqhBTJB6TckFlcqbEX4kf7uy1B0holX4Et7kCh79k&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=B7qEZ8_4MdOHptQPz-PwMA&ei=B7qEZ8_4MdOHptQPz-PwMA&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+         "phone":"+1 604-696-1165",
+         "photos_link":"https://serpapi.com/search.json?data_id=0x548673d6e564a417%3A0x297c3c91d4ecacf1&engine=google_maps_photos&hl=en",
+         "place_id":"ChIJF6Rk5dZzhlQR8azs1JE8fCk",
+         "place_id_search":"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJF6Rk5dZzhlQR8azs1JE8fCk",
+         "position":6,
+         "price":"CA$20–30",
+         "provider_id":"/g/11gfm3t0tn",
+         "rating":4.4,
+         "reviews":2047,
+         "reviews_link":"https://serpapi.com/search.json?data_id=0x548673d6e564a417%3A0x297c3c91d4ecacf1&engine=google_maps_reviews&hl=en",
+         "service_options":[
+            "Object"
+         ],
+         "thumbnail":"https://lh5.googleusercontent.com/p/AF1QipNrH3lrMN6R2j0bv20uxFeNShpmsth4LHiHJSaE=w122-h92-k-no",
+         "title":"MeeT in Yaletown",
+         "type":"Restaurant",
+         "type_id":"restaurant",
+         "type_ids":[
+            "Array"
+         ],
+         "types":[
+            "Array"
+         ],
+         "user_review":"\"Great vegan comfort food with a cool atmosphere.\"",
+         "website":"https://eatmeet.ca/meet-in-yaletown/"
+      },
+      {
+         "address":"2724 W 4th Ave, Vancouver, BC V6K 1R1, Canada",
+         "data_cid":"6337587898328001619",
+         "data_id":"0x5486739159840be9:0x57f3a29d94a7ac53",
+         "description":"24/7 vegetarian & natural-food eatery. Casual spot with local art, a garden patio & nightly live music, serving natural & vegetarian foods.",
+         "gps_coordinates":[
+            "Object"
+         ],
+         "hours":"Closed ⋅ Opens 11 AM Mon",
+         "open_state":"Closed ⋅ Opens 11 AM Mon",
+         "operating_hours":[
+            "Object"
+         ],
+         "order_online":"https://www.google.com/viewer/chooseprovider?mid=/m/04yjsbg&g2lbs=AOHF13nHoDM39GhVhKuIpQwAy6pwMQMTsdOj5XHY-vowwTJUTJDaIgqoHZTnE-2UC1tmVn4VrBTK&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=B7qEZ8_4MdOHptQPz-PwMA&ei=B7qEZ8_4MdOHptQPz-PwMA&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+         "phone":"+1 604-738-7151",
+         "photos_link":"https://serpapi.com/search.json?data_id=0x5486739159840be9%3A0x57f3a29d94a7ac53&engine=google_maps_photos&hl=en",
+         "place_id":"ChIJ6QuEWZFzhlQRU6ynlJ2i81c",
+         "place_id_search":"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ6QuEWZFzhlQRU6ynlJ2i81c",
+         "position":7,
+         "price":"CA$20–30",
+         "provider_id":"/m/04yjsbg",
+         "rating":4.3,
+         "reviews":2853,
+         "reviews_link":"https://serpapi.com/search.json?data_id=0x5486739159840be9%3A0x57f3a29d94a7ac53&engine=google_maps_reviews&hl=en",
+         "service_options":[
+            "Object"
+         ],
+         "thumbnail":"https://lh5.googleusercontent.com/p/AF1QipMIlrGM8ZgsZzBMYZsdaaDEqX2k8hr0hITit_U6=w163-h92-k-no",
+         "title":"The Naam",
+         "type":"Vegetarian restaurant",
+         "type_id":"vegetarian_restaurant",
+         "type_ids":[
+            "Array"
+         ],
+         "types":[
+            "Array"
+         ],
+         "website":"http://www.thenaam.com/"
+      },
+      {
+         "address":"1935 W 4th Ave, Vancouver, BC V6J 1M7, Canada",
+         "data_cid":"87093969259858146",
+         "data_id":"0x548673b60b3d0107:0x1356b80ebd008e2",
+         "description":"Stylish spot for plant-based fare. Chic plant-based restaurant featuring cocktails, local wines & and seasonal Asian-inspired dishes.",
+         "gps_coordinates":[
+            "Object"
+         ],
+         "hours":"Closed ⋅ Opens 5 PM Wed",
+         "open_state":"Closed ⋅ Opens 5 PM Wed",
+         "operating_hours":[
+            "Object"
+         ],
+         "order_online":"https://www.google.com/viewer/chooseprovider?mid=/g/11cr_7c4jq&g2lbs=AOHF13kedvnGX26jdobr6ZAy-qM2Btbwt-Ues8WESdFz4XwLgZLIqwpOzeSf8apxPcYxODzhnZiW&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=B7qEZ8_4MdOHptQPz-PwMA&ei=B7qEZ8_4MdOHptQPz-PwMA&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+         "phone":"+1 604-336-3010",
+         "photos_link":"https://serpapi.com/search.json?data_id=0x548673b60b3d0107%3A0x1356b80ebd008e2&engine=google_maps_photos&hl=en",
+         "place_id":"ChIJBwE9C7ZzhlQR4gjQ64BrNQE",
+         "place_id_search":"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJBwE9C7ZzhlQR4gjQ64BrNQE",
+         "position":8,
+         "price":"$$",
+         "provider_id":"/g/11cr_7c4jq",
+         "rating":4.4,
+         "reserve_a_table":"https://www.google.com/maps/reserve/v/dine/c/B8Mbcg3Q53o?source=pa&opi=79508299&hl=en-US&gei=B7qEZ8_4MdOHptQPz-PwMA&sourceurl=http://www.google.com/service/MapsSearchService/Search?hl%3Den%26authuser%3D0%26gl%3Dus%26q%3DVegan%2Brestaurants%26tbm%3Dmap",
+         "reviews":1267,
+         "reviews_link":"https://serpapi.com/search.json?data_id=0x548673b60b3d0107%3A0x1356b80ebd008e2&engine=google_maps_reviews&hl=en",
+         "service_options":[
+            "Object"
+         ],
+         "thumbnail":"https://lh5.googleusercontent.com/p/AF1QipOJQRCidoTWbRsAoNWskIRxoKiGuCkxAG5k-CbA=w122-h92-k-no",
+         "title":"Chi",
+         "type":"Vegetarian restaurant",
+         "type_id":"vegetarian_restaurant",
+         "type_ids":[
+            "Array"
+         ],
+         "types":[
+            "Array"
+         ],
+         "website":"http://www.chiplantbased.com/"
+      },
+      {
+         "address":"1689 Johnston St, Vancouver, BC V6H 3S2, Canada",
+         "data_cid":"16063665168166850490",
+         "data_id":"0x548673ce75ba6e9f:0xdeed9a5c8b668fba",
+         "description":"Market eatery for vegan Vietnamese fare. Counter-serve marketplace eatery offering vegan Vietnamese soups, spring rolls & noodle bowls.",
+         "gps_coordinates":[
+            "Object"
+         ],
+         "hours":"Closed ⋅ Opens 10 AM Tue",
+         "open_state":"Closed ⋅ Opens 10 AM Tue",
+         "operating_hours":[
+            "Object"
+         ],
+         "order_online":"https://www.google.com/viewer/chooseprovider?mid=/g/11cn6ddbph&g2lbs=AOHF13nxfzLdzvFAKtUrY77cav7ocdZdplqVewi9fPpFJYlOYnlTuud3ldOTky9j_fdDcAqUcpPC&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=B7qEZ8_4MdOHptQPz-PwMA&ei=B7qEZ8_4MdOHptQPz-PwMA&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+         "phone":"+1 778-379-9508",
+         "photos_link":"https://serpapi.com/search.json?data_id=0x548673ce75ba6e9f%3A0xdeed9a5c8b668fba&engine=google_maps_photos&hl=en",
+         "place_id":"ChIJn266dc5zhlQRuo9mi1ya7d4",
+         "place_id_search":"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJn266dc5zhlQRuo9mi1ya7d4",
+         "position":9,
+         "price":"CA$10–20",
+         "provider_id":"/g/11cn6ddbph",
+         "rating":4.4,
+         "reviews":185,
+         "reviews_link":"https://serpapi.com/search.json?data_id=0x548673ce75ba6e9f%3A0xdeed9a5c8b668fba&engine=google_maps_reviews&hl=en",
+         "service_options":[
+            "Object"
+         ],
+         "thumbnail":"https://lh5.googleusercontent.com/p/AF1QipNDTA8WVqtjeePmR7f9Yzn02aeugOX7wmSdDnl4=w138-h92-k-no",
+         "title":"Chau Veggie Express",
+         "type":"Restaurant",
+         "type_id":"restaurant",
+         "type_ids":[
+            "Array"
+         ],
+         "types":[
+            "Array"
+         ],
+         "user_review":"\"For a vegan salad roll, it was flavorful and unique and delicious.\"",
+         "website":"http://chowatchau.ca/"
+      },
+      {
+         "address":"2961 W Broadway, Vancouver, BC V6K 2G9, Canada",
+         "data_cid":"1166403224125308503",
+         "data_id":"0x548673ab7edc8ee7:0x102fe58d6edbfe57",
+         "description":"Cozy joint for plant-based fast food. Petite, wood-paneled place serving up meat-free burgers & baked fries, plus salads & smoothies.",
+         "gps_coordinates":[
+            "Object"
+         ],
+         "hours":"Closes soon ⋅ 12 AM ⋅ Opens 11 AM Mon",
+         "open_state":"Closes soon ⋅ 12 AM ⋅ Opens 11 AM Mon",
+         "operating_hours":[
+            "Object"
+         ],
+         "order_online":"https://www.google.com/viewer/chooseprovider?mid=/g/1jkwl_qy7&g2lbs=AOHF13nq01bX4qVlSDf53yvB69KWTJuxWnkUy2LjKZNluKBimtFEEK9zCXffBDifsC2qKlPgMSiX&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=B7qEZ8_4MdOHptQPz-PwMA&ei=B7qEZ8_4MdOHptQPz-PwMA&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+         "phone":"+1 604-336-3575",
+         "photos_link":"https://serpapi.com/search.json?data_id=0x548673ab7edc8ee7%3A0x102fe58d6edbfe57&engine=google_maps_photos&hl=en",
+         "place_id":"ChIJ547cfqtzhlQRV_7bbo3lLxA",
+         "place_id_search":"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ547cfqtzhlQRV_7bbo3lLxA",
+         "position":10,
+         "price":"CA$10–20",
+         "provider_id":"/g/1jkwl_qy7",
+         "rating":4.4,
+         "reviews":650,
+         "reviews_link":"https://serpapi.com/search.json?data_id=0x548673ab7edc8ee7%3A0x102fe58d6edbfe57&engine=google_maps_reviews&hl=en",
+         "service_options":[
+            "Object"
+         ],
+         "thumbnail":"https://lh5.googleusercontent.com/p/AF1QipOB8QsqFrzrPwmzQlUZLgufDA2OMTbmfGNQvidt=w163-h92-k-no",
+         "title":"Tera V Burger",
+         "type":"Vegan restaurant",
+         "type_id":"vegan_restaurant",
+         "type_ids":[
+            "Array"
+         ],
+         "types":[
+            "Array"
+         ],
+         "unclaimed_listing":true,
+         "website":"http://teravburger.com/"
+      },
+      {
+         "address":"2775 Laurel St, Vancouver, BC V5Z 0B2, Canada",
+         "data_cid":"16273374449656274667",
+         "data_id":"0x548673a25492f729:0xe1d6a3d788ae1eeb",
+         "gps_coordinates":[
+            "Object"
+         ],
+         "hours":"Closed ⋅ Opens 6:30 AM Mon",
+         "open_state":"Closed ⋅ Opens 6:30 AM Mon",
+         "operating_hours":[
+            "Object"
+         ],
+         "order_online":"https://www.google.com/viewer/chooseprovider?mid=/g/11smr5qwz7&g2lbs=AOHF13kjld7MJnsfNoCkE_xeK_l70VIGEDSKMux2jsdTXnYk7kXZXYBuP47yh_Y6w3zqxC0M-LPp&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=B7qEZ8_4MdOHptQPz-PwMA&ei=B7qEZ8_4MdOHptQPz-PwMA&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+         "phone":"+1 604-871-9931",
+         "photos_link":"https://serpapi.com/search.json?data_id=0x548673a25492f729%3A0xe1d6a3d788ae1eeb&engine=google_maps_photos&hl=en",
+         "place_id":"ChIJKfeSVKJzhlQR6x6uiNej1uE",
+         "place_id_search":"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJKfeSVKJzhlQR6x6uiNej1uE",
+         "position":11,
+         "price":"CA$10–20",
+         "provider_id":"/g/11smr5qwz7",
+         "rating":4.7,
+         "reviews":64,
+         "reviews_link":"https://serpapi.com/search.json?data_id=0x548673a25492f729%3A0xe1d6a3d788ae1eeb&engine=google_maps_reviews&hl=en",
+         "service_options":[
+            "Object"
+         ],
+         "thumbnail":"https://lh5.googleusercontent.com/p/AF1QipOA7rf9gmtpewzwEts5BmJ8lyf374QDxZMRYxtn=w122-h92-k-no",
+         "title":"Purple Grain",
+         "type":"Restaurant",
+         "type_id":"restaurant",
+         "type_ids":[
+            "Array"
+         ],
+         "types":[
+            "Array"
+         ],
+         "user_review":"\"Extremely helpful staff/manager with delicious vegan options.\"",
+         "website":"http://www.purplegrain.ca/"
+      },
+      {
+         "address":"207 W Hastings St, Vancouver, BC V6B 1K6, Canada",
+         "data_cid":"16710652764342550272",
+         "data_id":"0x54867179a40aaaf5:0xe7e82a26ff897f00",
+         "description":"Cafe for modern Lebanese fare. Popular Lebanese eatery & juice bar with bright decor, plus many vegetarian & vegan options.",
+         "gps_coordinates":[
+            "Object"
+         ],
+         "hours":"Closed ⋅ Opens 11:30 AM Mon",
+         "open_state":"Closed ⋅ Opens 11:30 AM Mon",
+         "operating_hours":[
+            "Object"
+         ],
+         "order_online":"https://www.google.com/viewer/chooseprovider?mid=/g/1tgf2xnp&g2lbs=AOHF13lIdDMMb87cPty1dkw5a7ZFI6g4vLptuQZOUsrOLUYSN7l2RKbn5oXlleO4myttzRoHMYhW&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=B7qEZ8_4MdOHptQPz-PwMA&ei=B7qEZ8_4MdOHptQPz-PwMA&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+         "phone":"+1 604-688-1655",
+         "photos_link":"https://serpapi.com/search.json?data_id=0x54867179a40aaaf5%3A0xe7e82a26ff897f00&engine=google_maps_photos&hl=en",
+         "place_id":"ChIJ9aoKpHlxhlQRAH-J_yYq6Oc",
+         "place_id_search":"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ9aoKpHlxhlQRAH-J_yYq6Oc",
+         "position":12,
+         "price":"$$",
+         "provider_id":"/g/1tgf2xnp",
+         "rating":4.3,
+         "reserve_a_table":"https://www.google.com/maps/reserve/v/dine/c/awiIUNBsMKk?source=pa&opi=79508299&hl=en-US&gei=B7qEZ8_4MdOHptQPz-PwMA&sourceurl=http://www.google.com/service/MapsSearchService/Search?hl%3Den%26authuser%3D0%26gl%3Dus%26q%3DVegan%2Brestaurants%26tbm%3Dmap",
+         "reviews":2931,
+         "reviews_link":"https://serpapi.com/search.json?data_id=0x54867179a40aaaf5%3A0xe7e82a26ff897f00&engine=google_maps_reviews&hl=en",
+         "service_options":[
+            "Object"
+         ],
+         "thumbnail":"https://lh5.googleusercontent.com/p/AF1QipO0sLDz5LOAopL98xaLwXVx-Hm7D80xmLeLgKBg=w92-h92-k-no",
+         "title":"Nuba in Gastown",
+         "type":"Lebanese restaurant",
+         "type_id":"lebanese_restaurant",
+         "type_ids":[
+            "Array"
+         ],
+         "types":[
+            "Array"
+         ],
+         "user_review":"\"Easy to accommodate for vegan and non vegan diets even when sharing things!\"",
+         "website":"https://www.nuba.ca/"
+      },
+      {
+         "address":"4th and, Yew St, Vancouver, BC V6P 5V8, Canada",
+         "data_cid":"6659538288227973438",
+         "data_id":"0x548673d63459b3b9:0x5c6b6eca15f0f93e",
+         "description":"Plant-based Mediterranean food truck. Food truck doling out plant-based Mediterranean fare such as hummus plates & falafel pitas.",
+         "gps_coordinates":[
+            "Object"
+         ],
+         "hours":"Closed ⋅ Opens 11 AM Mon",
+         "open_state":"Closed ⋅ Opens 11 AM Mon",
+         "operating_hours":[
+            "Object"
+         ],
+         "order_online":"https://www.google.com/viewer/chooseprovider?mid=/g/11cjhyqw0c&g2lbs=AOHF13n_SPnPSYcGti5KKqSh0Wj89wTrCS532kdb1cpNCw8T-9a7XvZ8M3qN_iIYjesuQclFFnDs&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=B7qEZ8_4MdOHptQPz-PwMA&ei=B7qEZ8_4MdOHptQPz-PwMA&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+         "phone":"+1 778-994-3954",
+         "photos_link":"https://serpapi.com/search.json?data_id=0x548673d63459b3b9%3A0x5c6b6eca15f0f93e&engine=google_maps_photos&hl=en",
+         "place_id":"ChIJubNZNNZzhlQRPvnwFcpua1w",
+         "place_id_search":"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJubNZNNZzhlQRPvnwFcpua1w",
+         "position":13,
+         "provider_id":"/g/11cjhyqw0c",
+         "rating":4.3,
+         "reviews":317,
+         "reviews_link":"https://serpapi.com/search.json?data_id=0x548673d63459b3b9%3A0x5c6b6eca15f0f93e&engine=google_maps_reviews&hl=en",
+         "service_options":[
+            "Object"
+         ],
+         "thumbnail":"https://lh3.googleusercontent.com/gps-proxy/ALd4DhHrNqi1U02eEyPUS63gmv8QVWW2jfWL594t1dCcLn6avY853YTK-noLsFux3bc1c5AW7eE7SdJlByB-kBDO1TllpJAShIZ_Aza_V4XaHCYr5k2_tr5VKzSloEKHyss15NVghzAX0JCF47k_WoQLXC3Cql_mEPUJyWYeujOFcMTcbxulSfv9Gbfg=w161-h92-k-no",
+         "title":"Chickpea Food Truck",
+         "type":"Vegan restaurant",
+         "type_id":"vegan_restaurant",
+         "type_ids":[
+            "Array"
+         ],
+         "types":[
+            "Array"
+         ],
+         "website":"http://www.ilovechickpea.ca/"
+      },
+      {
+         "address":"415 Abbott St, Vancouver, BC V6B 1R3, Canada",
+         "data_cid":"4615035418475576689",
+         "data_id":"0x54867137dcff8e15:0x400be642f8153d71",
+         "description":"Vegan versions of comfort-food classics. Funky cafe serving vegan pizza, salads, wraps & desserts from a counter for casual dining or to-go.",
+         "gps_coordinates":[
+            "Object"
+         ],
+         "hours":"Closed ⋅ Opens 11 AM Mon",
+         "open_state":"Closed ⋅ Opens 11 AM Mon",
+         "operating_hours":[
+            "Object"
+         ],
+         "order_online":"https://www.google.com/viewer/chooseprovider?mid=/g/11fhr0ssjr&g2lbs=AOHF13lCexKfofiL5cfp5N06P3vKAFYBm_GDhY7vtohXlKjXzodBf-SNvkBPYzyfTKb1SVJA4uLO&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=B7qEZ8_4MdOHptQPz-PwMA&ei=B7qEZ8_4MdOHptQPz-PwMA&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+         "photos_link":"https://serpapi.com/search.json?data_id=0x54867137dcff8e15%3A0x400be642f8153d71&engine=google_maps_photos&hl=en",
+         "place_id":"ChIJFY7_3DdxhlQRcT0V-ELmC0A",
+         "place_id_search":"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJFY7_3DdxhlQRcT0V-ELmC0A",
+         "position":14,
+         "price":"CA$10–20",
+         "provider_id":"/g/11fhr0ssjr",
+         "rating":4.6,
+         "reviews":669,
+         "reviews_link":"https://serpapi.com/search.json?data_id=0x54867137dcff8e15%3A0x400be642f8153d71&engine=google_maps_reviews&hl=en",
+         "service_options":[
+            "Object"
+         ],
+         "thumbnail":"https://lh5.googleusercontent.com/p/AF1QipMhKymFaP4YSTQlwrqGBjdjWj3YV1hz1MBcbo6k=w122-h92-k-no",
+         "title":"Vegan Cave Cafe Tanoor Pizza",
+         "type":"Pizza restaurant",
+         "type_id":"pizza_restaurant",
+         "type_ids":[
+            "Array"
+         ],
+         "types":[
+            "Array"
+         ]
+      },
+      {
+         "address":"2017 W 4th Ave, Vancouver, BC V6J 1N3, Canada",
+         "data_cid":"13931331007260287899",
+         "data_id":"0x548673b5d16eaaab:0xc15607bd6022639b",
+         "gps_coordinates":[
+            "Object"
+         ],
+         "hours":"Closed ⋅ Opens 10:30 AM Mon",
+         "open_state":"Closed ⋅ Opens 10:30 AM Mon",
+         "operating_hours":[
+            "Object"
+         ],
+         "order_online":"https://www.google.com/viewer/chooseprovider?mid=/g/11gh025njl&g2lbs=AOHF13nvmjGcgvlQdEI34GH6Mv1ga4iK9tckZVOhwCGYqK8x2Kl4uT2QAELzp71uvIJmK6iegkup&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=B7qEZ8_4MdOHptQPz-PwMA&ei=B7qEZ8_4MdOHptQPz-PwMA&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+         "phone":"+1 604-732-8111",
+         "photos_link":"https://serpapi.com/search.json?data_id=0x548673b5d16eaaab%3A0xc15607bd6022639b&engine=google_maps_photos&hl=en",
+         "place_id":"ChIJq6pu0bVzhlQRm2MiYL0HVsE",
+         "place_id_search":"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJq6pu0bVzhlQRm2MiYL0HVsE",
+         "position":15,
+         "price":"CA$10–20",
+         "provider_id":"/g/11gh025njl",
+         "rating":4.6,
+         "reviews":166,
+         "reviews_link":"https://serpapi.com/search.json?data_id=0x548673b5d16eaaab%3A0xc15607bd6022639b&engine=google_maps_reviews&hl=en",
+         "service_options":[
+            "Object"
+         ],
+         "thumbnail":"https://lh5.googleusercontent.com/p/AF1QipPEovud077w81bUKQkcShKs1_apFTN0mNr1H4xj=w163-h92-k-no",
+         "title":"Gobble",
+         "type":"Restaurant",
+         "type_id":"restaurant",
+         "type_ids":[
+            "Array"
+         ],
+         "types":[
+            "Array"
+         ],
+         "user_review":"\"I like their pilaf rice, root veggies, chicken, and vegan options.\"",
+         "website":"https://gobblevancouver.com/"
+      },
+      {
+         "address":"422 Richards St, Vancouver, BC V6B 2Z4, Canada",
+         "data_cid":"11870025403369459639",
+         "data_id":"0x54867178f912401d:0xa4bacd36dab30fb7",
+         "description":"Simple window for vegan custard pudding. This compact take-out spot from a husband-&-wife team specializes in all-vegan custard puddings.",
+         "gps_coordinates":[
+            "Object"
+         ],
+         "hours":"Closed ⋅ Opens 2 PM Tue",
+         "open_state":"Closed ⋅ Opens 2 PM Tue",
+         "operating_hours":[
+            "Object"
+         ],
+         "order_online":"https://www.google.com/viewer/chooseprovider?mid=/g/11b7jjvfy7&g2lbs=AOHF13m_uRaeOwHBA6M6urZLwmUKDsSGXD9V7LNvyqUGn1XH-BwzSuHvjQi90Iz7S5jnOMxEfyAw&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=B7qEZ8_4MdOHptQPz-PwMA&ei=B7qEZ8_4MdOHptQPz-PwMA&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+         "phone":"+1 778-379-0545",
+         "photos_link":"https://serpapi.com/search.json?data_id=0x54867178f912401d%3A0xa4bacd36dab30fb7&engine=google_maps_photos&hl=en",
+         "place_id":"ChIJHUAS-XhxhlQRtw-z2jbNuqQ",
+         "place_id_search":"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJHUAS-XhxhlQRtw-z2jbNuqQ",
+         "position":16,
+         "price":"CA$1–10",
+         "provider_id":"/g/11b7jjvfy7",
+         "rating":4.5,
+         "reviews":169,
+         "reviews_link":"https://serpapi.com/search.json?data_id=0x54867178f912401d%3A0xa4bacd36dab30fb7&engine=google_maps_reviews&hl=en",
+         "service_options":[
+            "Object"
+         ],
+         "thumbnail":"https://lh5.googleusercontent.com/p/AF1QipNlekyOwDKUEzggDTdvUTrsUO0BQuAhJqvGcV8y=w92-h92-k-no",
+         "title":"Vegan Pudding & Co.",
+         "type":"Vegan restaurant",
+         "type_id":"vegan_restaurant",
+         "type_ids":[
+            "Array"
+         ],
+         "types":[
+            "Array"
+         ],
+         "website":"http://www.veganpuddingco.com/"
+      },
+      {
+         "address":"508 Davie St, Vancouver, BC V6B 3N9, Canada",
+         "data_cid":"17216397191387218510",
+         "data_id":"0x548673d41cfa9365:0xeeecee0778ab024e",
+         "description":"Cafe for modern Lebanese fare. Popular Lebanese eatery & juice bar with bright decor, plus many vegetarian & vegan options.",
+         "gps_coordinates":[
+            "Object"
+         ],
+         "hours":"Closed ⋅ Opens 11:30 AM Mon",
+         "open_state":"Closed ⋅ Opens 11:30 AM Mon",
+         "operating_hours":[
+            "Object"
+         ],
+         "order_online":"https://www.google.com/viewer/chooseprovider?mid=/g/1yl46xss1&g2lbs=AOHF13l-nlnJT-My5tQ8W_60tevxpxhkuySUNke5qtNW8IAueVTYV1619AhnVHSih-lLZAi3afHC&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=B7qEZ8_4MdOHptQPz-PwMA&ei=B7qEZ8_4MdOHptQPz-PwMA&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+         "phone":"+1 604-661-4129",
+         "photos_link":"https://serpapi.com/search.json?data_id=0x548673d41cfa9365%3A0xeeecee0778ab024e&engine=google_maps_photos&hl=en",
+         "place_id":"ChIJZZP6HNRzhlQRTgKreAfu7O4",
+         "place_id_search":"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZZP6HNRzhlQRTgKreAfu7O4",
+         "position":17,
+         "price":"$$",
+         "provider_id":"/g/1yl46xss1",
+         "rating":4.2,
+         "reserve_a_table":"https://www.google.com/maps/reserve/v/dine/c/J7NszeaGWLM?source=pa&opi=79508299&hl=en-US&gei=B7qEZ8_4MdOHptQPz-PwMA&sourceurl=http://www.google.com/service/MapsSearchService/Search?hl%3Den%26authuser%3D0%26gl%3Dus%26q%3DVegan%2Brestaurants%26tbm%3Dmap",
+         "reviews":1416,
+         "reviews_link":"https://serpapi.com/search.json?data_id=0x548673d41cfa9365%3A0xeeecee0778ab024e&engine=google_maps_reviews&hl=en",
+         "service_options":[
+            "Object"
+         ],
+         "thumbnail":"https://lh5.googleusercontent.com/p/AF1QipP9k4gX1liQMMECpTDDgJgdW4Pecl-V0j17Uvv5=w92-h92-k-no",
+         "title":"Nuba in Yaletown",
+         "type":"Restaurant",
+         "type_id":"restaurant",
+         "type_ids":[
+            "Array"
+         ],
+         "types":[
+            "Array"
+         ],
+         "user_review":"\"... was tasty with lots of choice for both a meat eater and vegetarian.\"",
+         "website":"http://www.nuba.ca/"
+      },
+      {
+         "address":"1161 Davie St, Vancouver, BC V6E 1N2, Canada",
+         "data_cid":"5882911340731231028",
+         "data_id":"0x5486730004a896b7:0x51a44cb20566eb34",
+         "gps_coordinates":[
+            "Object"
+         ],
+         "hours":"Closed ⋅ Opens 11:30 AM Mon",
+         "open_state":"Closed ⋅ Opens 11:30 AM Mon",
+         "operating_hours":[
+            "Object"
+         ],
+         "order_online":"https://www.google.com/viewer/chooseprovider?mid=/g/11ld2mx7t3&g2lbs=AOHF13n1nwK9CoCK5ZkNO3O34FQwlbj3FCpQwkMxUx6gGAW2pivp0I7bL8X_mignuCfleRYt5OEa&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=B7qEZ8_4MdOHptQPz-PwMA&ei=B7qEZ8_4MdOHptQPz-PwMA&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+         "phone":"+1 672-399-1161",
+         "photos_link":"https://serpapi.com/search.json?data_id=0x5486730004a896b7%3A0x51a44cb20566eb34&engine=google_maps_photos&hl=en",
+         "place_id":"ChIJt5aoBABzhlQRNOtmBbJMpFE",
+         "place_id_search":"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJt5aoBABzhlQRNOtmBbJMpFE",
+         "position":18,
+         "price":"CA$20–30",
+         "provider_id":"/g/11ld2mx7t3",
+         "rating":4.9,
+         "reviews":370,
+         "reviews_link":"https://serpapi.com/search.json?data_id=0x5486730004a896b7%3A0x51a44cb20566eb34&engine=google_maps_reviews&hl=en",
+         "service_options":[
+            "Object"
+         ],
+         "thumbnail":"https://lh5.googleusercontent.com/p/AF1QipP3k39mH_tfPWRWdDTpdQ58nr850ODZl_I8IBgn=w80-h106-k-no",
+         "title":"The Hestia Veggie",
+         "type":"Vegetarian restaurant",
+         "type_id":"vegetarian_restaurant",
+         "type_ids":[
+            "Array"
+         ],
+         "types":[
+            "Array"
+         ],
+         "website":"https://www.thehestiaveggie.ca/"
+      },
+      {
+         "address":"inner Courtyard, 12 Water St, Vancouver, BC V6B 4K7, Canada",
+         "data_cid":"8486430434256396620",
+         "data_id":"0x5486717750310d79:0x75c5db8454eaa14c",
+         "gps_coordinates":[
+            "Object"
+         ],
+         "hours":"Closed ⋅ Opens 12 PM Mon",
+         "open_state":"Closed ⋅ Opens 12 PM Mon",
+         "operating_hours":[
+            "Object"
+         ],
+         "order_online":"https://www.google.com/viewer/chooseprovider?mid=/g/11bx5p_6m5&g2lbs=AOHF13kEXcg8vaqA36D9D2oErWMyLZKmiktekwjtuoE8-xI84UKMo9Ndt-Wmt7zSTFxWOELRWDyr&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=B7qEZ8_4MdOHptQPz-PwMA&ei=B7qEZ8_4MdOHptQPz-PwMA&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+         "phone":"+1 604-696-1111",
+         "photos_link":"https://serpapi.com/search.json?data_id=0x5486717750310d79%3A0x75c5db8454eaa14c&engine=google_maps_photos&hl=en",
+         "place_id":"ChIJeQ0xUHdxhlQRTKHqVITbxXU",
+         "place_id_search":"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJeQ0xUHdxhlQRTKHqVITbxXU",
+         "position":19,
+         "price":"CA$20–30",
+         "provider_id":"/g/11bx5p_6m5",
+         "rating":4.5,
+         "reviews":3365,
+         "reviews_link":"https://serpapi.com/search.json?data_id=0x5486717750310d79%3A0x75c5db8454eaa14c&engine=google_maps_reviews&hl=en",
+         "service_options":[
+            "Object"
+         ],
+         "thumbnail":"https://lh5.googleusercontent.com/p/AF1QipMILmhYP3mHEPozaxP9L-gDqGQCEnXq9YYWZrVj=w122-h92-k-no",
+         "title":"MeeT in Gastown",
+         "type":"Restaurant",
+         "type_id":"restaurant",
+         "type_ids":[
+            "Array"
+         ],
+         "types":[
+            "Array"
+         ],
+         "user_review":"\"A great restaurant with delicious vegan food and a great service!\"",
+         "website":"https://eatmeet.ca/meet-in-gastown/"
+      },
+      {
+         "address":"3605 W 4th Ave, Vancouver, BC V6R 1P2, Canada",
+         "data_cid":"1645641917722311401",
+         "data_id":"0x54867255d9b9607f:0x16d67e9aed54bae9",
+         "description":"Daily brunch at a casual locavore eatery. Laid-back choice for organic, farm-to-table eats & desserts including vegan & gluten-free options.",
+         "gps_coordinates":[
+            "Object"
+         ],
+         "hours":"Closed ⋅ Opens 9 AM Mon",
+         "open_state":"Closed ⋅ Opens 9 AM Mon",
+         "operating_hours":[
+            "Object"
+         ],
+         "order_online":"https://www.google.com/viewer/chooseprovider?mid=/g/1tmxw8kz&g2lbs=AOHF13lWbsyhFBvk_Q5aelXY0NVLP4gE92bk04th0mYuZj3nsFWw-pgqpNpPhQff3Ih5HRBiJnpN&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=B7qEZ8_4MdOHptQPz-PwMA&ei=B7qEZ8_4MdOHptQPz-PwMA&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+         "phone":"+1 604-733-8308",
+         "photos_link":"https://serpapi.com/search.json?data_id=0x54867255d9b9607f%3A0x16d67e9aed54bae9&engine=google_maps_photos&hl=en",
+         "place_id":"ChIJf2C52VVyhlQR6bpU7Zp-1hY",
+         "place_id_search":"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJf2C52VVyhlQR6bpU7Zp-1hY",
+         "position":20,
+         "price":"CA$20–30",
+         "provider_id":"/g/1tmxw8kz",
+         "rating":4.1,
+         "reviews":653,
+         "reviews_link":"https://serpapi.com/search.json?data_id=0x54867255d9b9607f%3A0x16d67e9aed54bae9&engine=google_maps_reviews&hl=en",
+         "service_options":[
+            "Object"
+         ],
+         "thumbnail":"https://lh5.googleusercontent.com/p/AF1QipPb-mSSwG2KjDWNz0soebyrqnOlFO9wO_jUVRiW=w80-h142-k-no",
+         "title":"Aphrodite's Organic Cafe",
+         "type":"Organic restaurant",
+         "type_id":"organic_restaurant",
+         "type_ids":[
+            "Array"
+         ],
+         "types":[
+            "Array"
+         ],
+         "user_review":"\"A little on the expensive side but loved the vegan lasagna, must try.\"",
+         "website":"https://www.organiccafe.ca/"
+      }
+   ],
+   "search_information":{
+      "local_results_state":"Results for exact spelling",
+      "query_displayed":"Vegan restaurants"
+   },
+   "search_metadata":{
+      "created_at":"2025-01-13 07:00:23 UTC",
+      "google_maps_url":"https://www.google.com/maps/search/Vegan+restaurants/@49.26278731757326,-123.15139116466464,14z?hl=en",
+      "id":"6784ba07b3483e9f433b7ba2",
+      "json_endpoint":"https://serpapi.com/searches/63f1cc4ab0a2127e/6784ba07b3483e9f433b7ba2.json",
+      "processed_at":"2025-01-13 07:00:23 UTC",
+      "raw_html_file":"https://serpapi.com/searches/63f1cc4ab0a2127e/6784ba07b3483e9f433b7ba2.html",
+      "status":"Success",
+      "total_time_taken":1.23
+   },
+   "search_parameters":{
+      "engine":"google_maps",
+      "google_domain":"google.com",
+      "hl":"en",
+      "ll":"@49.26278731757326,-123.15139116466464,14z",
+      "q":"Vegan restaurants",
+      "type":"search"
+   },
+   "serpapi_pagination":{
+      "next":"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&ll=%4049.26278731757326%2C-123.15139116466464%2C14z&q=Vegan+restaurants&start=20&type=search"
+   }
+}
